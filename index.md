@@ -4,7 +4,7 @@
 Bienvenue sur la documentation de Phytokillier!
 
 * Pré-requis
-* [Mise en service](https://github.com/Phytokiller/documentation/wiki/Mise-en-service)
+* [Mise en service](https://github.com/Phytokiller/documentation/mise_en_service.md)
 * Utilisation de l'écran tactile
 * Interface de gestion sur réseau local
 * Interface de gestion en ligne
